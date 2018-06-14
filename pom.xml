@@ -65,6 +65,12 @@
 			</plugin>
 		</plugins>
 	</build>
-
+<distributionManagement>
+	<repository>
+		<id>1</id>
+		<name>Aswini</name>
+		<url>http://<nexus-ip>localhost:8081/nexus/content/repositories/1</url>
+	</repository>
+</distributionManagement>
 
 </project>
