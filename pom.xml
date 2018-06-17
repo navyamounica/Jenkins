@@ -67,9 +67,9 @@
 	</build>
 <distributionManagement>
 	<repository>
-		<id>1</id>
-		<name>Aswini</name>
-		<url>http://localhost:8081/nexus/content/repositories/1</url>
+		<id>maven-releases</id>
+		<name>maven-releases</name>
+		<url>http://35.190.148.68:8081/repository/maven-releases/</url>
 	</repository>
 </distributionManagement>
 
